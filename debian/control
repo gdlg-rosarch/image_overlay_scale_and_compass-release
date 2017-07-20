@@ -1,0 +1,12 @@
+Source: ros-kinetic-image-overlay-scale-and-compass
+Section: misc
+Priority: extra
+Maintainer: Daniel Snider <danielsnider12@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-cv-bridge, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs
+Homepage: http://wiki.ros.org/image_overlay_scale_and_compass
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-image-overlay-scale-and-compass
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-numpy, python-opencv, ros-kinetic-click, ros-kinetic-cv-bridge, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs
+Description: Add an indication of scale and compass to images.
