@@ -1,0 +1,19 @@
+ros-kinetic-image-overlay-scale-and-compass (0.2.1-0jessie) jessie; urgency=high
+
+  * Dependency name fix for click
+
+ -- Daniel Snider <danielsnider12@gmail.com>  Thu, 20 Jul 2017 04:00:00 -0000
+
+ros-kinetic-image-overlay-scale-and-compass (0.2.0-0jessie) jessie; urgency=high
+
+  * Major update
+
+ -- Daniel Snider <danielsnider12@gmail.com>  Thu, 20 Jul 2017 04:00:00 -0000
+
+ros-kinetic-image-overlay-scale-and-compass (0.1.0-0jessie) jessie; urgency=high
+
+  * First release
+
+ -- Daniel Snider <danielsnider12@gmail.com>  Thu, 20 Jul 2017 04:00:00 -0000
+
+
